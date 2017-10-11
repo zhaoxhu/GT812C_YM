@@ -1,0 +1,29 @@
+src/common/sscanf.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libc/stdio/current/src/common/sscanf.cxx \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libc_stdio.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stdio.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/isoinfra.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stdarg.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stdarg.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/libc/stdio/stdio.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/libc/stdio/stdio.inl \
+  /mnt/hgfs/shared/ht812c/iros/install/include/errno.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/error/codes.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/error.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/error/errno.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/string.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/error/strerror.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/libc/string/string.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libc_string.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/libc/string/string.inl \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/libc/string/bsdstring.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/limits.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/fileio/limits.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/io_fileio.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/posix/limits.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/posix.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/limits.h

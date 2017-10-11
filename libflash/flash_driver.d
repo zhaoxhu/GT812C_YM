@@ -1,0 +1,30 @@
+/mnt/hgfs/shared/ht812c/libflash/flash_driver.o:  \
+ /mnt/hgfs/shared/ht812c/src/cmn/plat/flash/flash_driver.c \
+  /mnt/hgfs/shared/ht812c/libflash/../iros_config.h \
+  /mnt/hgfs/shared/ht812c/libflash/../products_config.h \
+  .././iros_config.h \
+  /mnt/hgfs/shared/ht812c/src/cmn/plat/flash/flash_dev_driver.h \
+  ../iros/install/include/pkgconf/hal.h \
+  ../iros/install/include/pkgconf/system.h \
+  ../iros/install/include/pkgconf/hal_arm.h \
+  ../iros/install/include/pkgconf/hal_arm_immenstar.h \
+  ../iros/install/include/cyg/hal/hal_arch.h \
+  ../iros/install/include/cyg/infra/cyg_type.h \
+  ../iros/install/include/stddef.h \
+  ../iros/install/include/cyg/hal/basetype.h \
+  ../iros/install/include/cyg/hal/hal_intr.h \
+  ../iros/install/include/cyg/hal/hal_platform_ints.h \
+  ../iros/install/include/cyg/hal/hal_immenstar.h \
+  ../iros/install/include/cyg/hal/hal_reg_lynxd.h \
+  ../iros/install/include/pkgconf/mlt_arm_imst_ram.h \
+  ../iros/install/include/cyg/hal/hal_cache.h \
+  ../iros/install/include/cyg/hal/hal_mmu.h \
+  ../iros/install/include/cyg/hal/hal_io.h \
+  ../iros/install/include/cyg/hal/var_io.h \
+  ../iros/install/include/cyg/hal/plf_io.h \
+  ../iros/install/include/pkgconf/io_flash.h \
+  ../iros/install/include/pkgconf/devs_flash_intel_28fxxx.h \
+  ../iros/install/include/cyg/io/flash.h \
+  ../iros/install/include/cyg/io/flash_dev.h \
+  /mnt/hgfs/shared/ht812c/src/cmn/plat/peripheral/sflash.h \
+  /mnt/hgfs/shared/ht812c/src/include/cs_types.h

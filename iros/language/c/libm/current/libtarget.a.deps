@@ -1,0 +1,667 @@
+src/misc/matherr.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/misc/matherr.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_trac.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/infra.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_ass.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h
+src/misc/standard.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/misc/standard.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_trac.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/infra.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_ass.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/error/codes.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/error.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/errno.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/isoinfra.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/error/errno.h
+src/misc/compatmode.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/misc/compatmode.cxx \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_trac.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/infra.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_ass.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/misc/infconst.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/misc/infconst.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_acos.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/ieee754-core/e_acos.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_asin.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/ieee754-core/e_asin.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_atan2.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/ieee754-core/e_atan2.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_cosh.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/ieee754-core/e_cosh.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_exp.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/ieee754-core/e_exp.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_fmod.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/ieee754-core/e_fmod.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_log.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/ieee754-core/e_log.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_log10.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/ieee754-core/e_log10.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_pow.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/ieee754-core/e_pow.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_rem_pio2.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/ieee754-core/e_rem_pio2.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_scalb.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/ieee754-core/e_scalb.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_sinh.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/ieee754-core/e_sinh.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_sqrt.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/ieee754-core/e_sqrt.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/ieee754-api/w_acos.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/ieee754-api/w_acos.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/ieee754-api/w_asin.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/ieee754-api/w_asin.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/ieee754-api/w_atan2.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/ieee754-api/w_atan2.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/ieee754-api/w_cosh.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/ieee754-api/w_cosh.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/ieee754-api/w_exp.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/ieee754-api/w_exp.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/ieee754-api/w_fmod.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/ieee754-api/w_fmod.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/ieee754-api/w_log.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/ieee754-api/w_log.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/ieee754-api/w_log10.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/ieee754-api/w_log10.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/ieee754-api/w_pow.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/ieee754-api/w_pow.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/ieee754-api/w_scalb.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/ieee754-api/w_scalb.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/errno.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/isoinfra.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/error/codes.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/error.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/error/errno.h
+src/double/ieee754-api/w_sinh.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/ieee754-api/w_sinh.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/ieee754-api/w_sqrt.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/ieee754-api/w_sqrt.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/internal/k_cos.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/internal/k_cos.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/internal/k_rem_pio2.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/internal/k_rem_pio2.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/internal/k_sin.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/internal/k_sin.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/internal/k_tan.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/internal/k_tan.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/portable-api/s_atan.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/portable-api/s_atan.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/portable-api/s_ceil.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/portable-api/s_ceil.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/portable-api/s_copysign.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/portable-api/s_copysign.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/portable-api/s_cos.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/portable-api/s_cos.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/portable-api/s_expm1.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/portable-api/s_expm1.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/portable-api/s_fabs.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/portable-api/s_fabs.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/portable-api/s_finite.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/portable-api/s_finite.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/portable-api/s_floor.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/portable-api/s_floor.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/portable-api/s_frexp.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/portable-api/s_frexp.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/portable-api/s_isnan.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/portable-api/s_isnan.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/portable-api/s_ldexp.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/portable-api/s_ldexp.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/portable-api/s_rint.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/portable-api/s_rint.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/portable-api/s_scalbn.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/portable-api/s_scalbn.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/portable-api/s_sin.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/portable-api/s_sin.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/portable-api/s_tan.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/portable-api/s_tan.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/portable-api/s_modf.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/portable-api/s_modf.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h
+src/double/portable-api/s_tanh.o.d:  \
+ /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/double/portable-api/s_tanh.c \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/libm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/pkgconf/system.h \
+  /mnt/hgfs/shared/ht812c/ecos/ecos-2.1/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/infra/cyg_type.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/stddef.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/stddef.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/cyg/hal/basetype.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/math.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/float.h \
+  /opt/toolschain/iros-tools/gnutools/bin/../lib/gcc/arm-elf/3.4.2/include/float.h \
+  /mnt/hgfs/shared/ht812c/iros/install/include/sys/ieeefp.h

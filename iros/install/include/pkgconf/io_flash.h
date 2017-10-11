@@ -1,0 +1,34 @@
+#ifndef CYGONCE_PKGCONF_IO_FLASH_H
+#define CYGONCE_PKGCONF_IO_FLASH_H
+/*
+ * File <pkgconf/io_flash.h>
+ *
+ * This file is generated automatically by the configuration
+ * system. It should not be edited. Any changes to this file
+ * may be overwritten.
+ */
+
+#include <pkgconf/system.h>
+#ifdef CYGDAT_IO_FLASH_DEVICE_HEADER
+# include CYGDAT_IO_FLASH_DEVICE_HEADER
+#endif 
+#define CYGHWR_IO_FLASH_DEVICE 1
+#define CYGHWR_IO_FLASH_DEVICE_1
+#define CYGHWR_IO_FLASH_BLOCK_LOCKING 3
+#define CYGHWR_IO_FLASH_BLOCK_LOCKING_3
+#define CYGSEM_IO_FLASH_CHATTER 1
+#define CYGSEM_IO_FLASH_VERIFY_PROGRAM 1
+#define CYGPKG_IO_FLASH_BLOCK_DEVICE 1
+#define CYGDAT_IO_FLASH_BLOCK_DEVICE_NAME_1 "/dev/flash1"
+#define CYGNUM_IO_FLASH_BLOCK_CFG_STATIC_1 1
+#define CYGNUM_IO_FLASH_BLOCK_OFFSET_1 0x0
+#define CYGNUM_IO_FLASH_BLOCK_OFFSET_1_0x0
+#define CYGNUM_IO_FLASH_BLOCK_LENGTH_1 0x100000
+#define CYGNUM_IO_FLASH_BLOCK_LENGTH_1_0x100000
+#define CYGPKG_IO_FLASH_OPTIONS 1
+#define CYGNUM_IO_FLASH_TEST_OFFSET 0x0
+#define CYGNUM_IO_FLASH_TEST_OFFSET_0x0
+#define CYGNUM_IO_FLASH_TEST_LENGTH 0x10000
+#define CYGNUM_IO_FLASH_TEST_LENGTH_0x10000
+
+#endif
